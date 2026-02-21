@@ -1,2 +1,2 @@
 # my-favorites
-# Salat, Pizza, Sandwich, Burger. Reis
+# Salat, Pizza, Sandwich, Burger. Schnitzel
