@@ -1,2 +1,2 @@
 # my-favorites
-# Pizza,Burger,Pasta,Sush,Döner
+# Salat, Pizza, Sandwich, Burger. Reis
