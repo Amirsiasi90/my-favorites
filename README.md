@@ -1,2 +1,2 @@
 # my-favorites
-# Salat, Pizza, Sandwich, Burger. Schnitzel
+# Salat, Pizza, Sandwich, Burger, Schnitzel
